@@ -8,7 +8,8 @@ public class test1 {
 			System.out.println("Your Test2");
 			System.out.println("Follow");
 			System.out.println("Your Test3");
-			System.out.println("Your edit in Local");
+			System.out.println("Your edit in Remote");
+
 			
 	}
 
